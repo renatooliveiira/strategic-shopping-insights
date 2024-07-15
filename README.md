@@ -10,7 +10,7 @@ Esta análise visa extrair insights valiosos sobre a preferência das pessoas du
 
 # Descrição do Dataset:
 
-Conjunto de dados: [disponível no Kaggle](www.kaggle.com/iamsouravbanerjee/customer-shopping-trends-dataset)
+Conjunto de dados: [disponível no Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
 Glossário do conjunto de dados:
 
