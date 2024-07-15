@@ -77,13 +77,13 @@ Glossário do conjunto de dados:
 
 ![img](imagens/05.png)
 
-- A maioria das pessoas prefere fazer compras no ponto de venda "Montana", seguido do ponto de venda "Califórnia.
+- A maioria das pessoas prefere fazer compras no ponto de venda 'Montana', seguido pelo ponto de venda 'Califórnia'.
 
 ### 6. Método de Pagamento Preferido
 
 ![img](imagens/06.png)
 
-- "PayPal" é o método mais preferido, seguido de "cartão de crédito" e "dinheiro".
+- O método mais preferido é o 'PayPal', seguido pelo 'cartão de crédito' e 'dinheiro'
 
 ---
 
@@ -91,7 +91,7 @@ Glossário do conjunto de dados:
 
 ![img](imagens/07.png)
 
-- A maioria das pessoas prefere fazer compras de "A cada 3 meses', seguido de "Anualmente".
+- A maioria das pessoas prefere fazer compras a cada 3 meses, seguido de anualmente.
 
 ---
 
@@ -107,7 +107,7 @@ Glossário do conjunto de dados:
 
 ![img](imagens/09.png)
 
-- A maioria das pessoas opta por "Envio gratuito", seguido de "Padrão" e "Retirar na loja".
+- A maioria das pessoas prefere 'Envio gratuito', seguido de 'Padrão' e 'Retirada na loja'.
 
 ---
 
@@ -123,7 +123,7 @@ Glossário do conjunto de dados:
 
 ![img](imagens/11.png)
 
-- A maioria das pessoas compra roupas nas cores 'Oliva', seguida de 'Amarelo' e 'Prateado'.
+- A maioria das pessoas compra roupas nas cores "Oliva", seguida de "Amarelo" e "Prateado".
 
 ---
 
@@ -133,7 +133,7 @@ Glossário do conjunto de dados:
 
 - A maioria das compras é feita por homens.
 - A maioria dos homens compra roupa e acessórios.
-- A maioria efectua o pagamento com cartão de crédito.
+- A maioria efetua o pagamento com cartão de crédito.
 
 
 
