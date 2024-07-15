@@ -123,7 +123,7 @@ Glossário do conjunto de dados:
 
 ![img](imagens/11.png)
 
-- A maioria das pessoas compra roupa de cor "Oliva", seguida de "Amarelo" e "Prateado".
+- A maioria das pessoas compra roupas nas cores 'Oliva', seguida de 'Amarelo' e 'Prateado'.
 
 ---
 
