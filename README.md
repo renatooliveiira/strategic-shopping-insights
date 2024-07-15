@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/matplotlib-%23135F9B?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/seaborn-%23444876?style=for-the-badge)
 
-Esta análise visa extrair insights valiosos sobre a preferência das pessoas durante as compras com base em alguns dados históricos que serão cruciais para orientar o planejamento estratégico do shopping, permitindo ajustes precisos na oferta de produtos e serviços para maximizar a satisfação do cliente e, consequentemente, aumentar a rentabilidade.
+Esta análise visa extrair insights valiosos sobre a preferência das pessoas durante as compras com base em alguns dados que serão cruciais para orientar o planejamento estratégico do shopping, permitindo ajustes precisos na oferta de produtos e serviços para maximizar a satisfação do cliente e, consequentemente, aumentar a rentabilidade.
 
 # Descrição do Dataset:
 
